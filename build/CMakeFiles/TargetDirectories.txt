@@ -1,0 +1,9 @@
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/Experimental.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/Nightly.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/Continuous.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/demo.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/PACKAGE.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/13507/Desktop/connect-4-starter-main/build/CMakeFiles/ZERO_CHECK.dir

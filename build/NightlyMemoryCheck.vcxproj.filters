@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\13507\Desktop\connect-4-starter-main\build\CMakeFiles\6a5fc0d25416ebabda24cd385eda3be0\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\13507\Desktop\connect-4-starter-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\13507\Desktop\connect-4-starter-main\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9B058AAD-2FC7-3B02-9334-FACCEA608304}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

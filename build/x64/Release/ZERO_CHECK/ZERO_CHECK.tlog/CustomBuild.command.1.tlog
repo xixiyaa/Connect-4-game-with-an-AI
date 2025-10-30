@@ -1,0 +1,10 @@
+^C:\USERS\13507\DESKTOP\CONNECT-4-STARTER-MAIN\BUILD\CMAKEFILES\6A5FC0D25416EBABDA24CD385EDA3BE0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/13507/Desktop/connect-4-starter-main -BC:/Users/13507/Desktop/connect-4-starter-main/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/13507/Desktop/connect-4-starter-main/build/tictactoe.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

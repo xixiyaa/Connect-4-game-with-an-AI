@@ -37,7 +37,7 @@ classes/Connect4.cpp
 
 ### 🧱 Step-by-Step Build Commands
 
-In **PowerShell or CMD**, run the following from your project root folder:
+In **PowerShell or CMD**, run the following from the project root folder:
 
 ```bash
 # Step 1: Generate Visual Studio project files
